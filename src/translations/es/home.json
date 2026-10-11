@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "titleLines": ["PETER.do", "BASH"],
+    "genres": ["House", "Breaks", "Bass", "Garage"],
+    "summary": [],
+    "manifesto": "MJ Cole: \"Hay que mantener el río fluyendo, no dejarlo estancarse.\" Seguir la vibra, terminar la idea y moverse hacia adelante: cada bajo, cada swing y cada error pueden abrir una puerta nueva.",
+    "label": "Protocolo artístico",
+    "primaryCta": "Bookings",
+    "secondaryCta": "Explorar Sonido",
+    "manifestoTitle": "Manifesto.exe"
+  },
+  "sound": {
+    "eyebrow": "DE DÓNDE NACE MI SONIDO",
+    "title": "Sound System",
+    "statement": "Mi sonido vive en la intersección de varios mundos: la profundidad del Deep House, el groove de los ritmos quebrados, la energía de la cultura UK y la presión de las líneas de bajo. No me interesa quedarme en un solo género.",
+    "featuredLabel": "",
+    "featuredAction": "Escuchar SET",
+    "genres": [
+      { "id": "uk-garage", "label": "UK Garage Bassline", "set": "North Swing Tape", "meta": "132 BPM / UKG Bassline", "note": "Baterías shuffled, presión de graves y vocales de madrugada." },
+      { "id": "bassline", "label": "Bassline", "set": "Sub Grid Session", "meta": "136 BPM / Bass", "note": "Herramientas de presión con subs rodantes y swing de warehouse." },
+      { "id": "dubstep", "label": "Drum n Bass", "set": "Rolling Pressure", "meta": "174 BPM / DnB", "note": "Baterías rápidas, bajo en movimiento y tensión de rave con pulso futurista." },
+      { "id": "bass-house", "label": "Bass House", "set": "Jangadero Bass File", "meta": "128 BPM / Bass House", "note": "Drive de club, basslines cortadas y movimiento directo de peak hour." },
+      { "id": "minimal", "label": "Minimal DeepTech / Tech House", "set": "Low Room Protocol", "meta": "126 BPM / DeepTech", "note": "Grooves reducidos, loops de presión y control preciso de sala." },
+      { "id": "deep-house", "label": "Deep House", "set": "Afterhours Root", "meta": "124 BPM / Deep House", "note": "Drums cálidos, acordes ahumados y pulso underground sostenido." },
+      { "id": "break-groove", "label": "Break & Groove", "set": "Break Junction", "meta": "130 BPM / Breaks", "note": "Lenguaje broken con energía jackin y percusión rugosa." },
+      { "id": "house", "label": "House", "set": "Control (Extended Mix)", "meta": "House / Extended Mix", "note": "Groove house preciso, elegante y directo al centro de la pista." },
+      { "id": "breaks", "label": "Breaks", "set": "Parallel (Original Mix)", "meta": "Breaks / Original Mix", "note": "Ritmos quebrados, tensión progresiva y movimiento lateral." },
+      { "id": "uk-garage-speed", "label": "UK Garage SpeedGarage", "set": "FWD (Original Mix)", "meta": "SpeedGarage / Original Mix", "note": "Bassline elástica, swing británico y presión de club." }
+    ]
+  },
+  "latestSet": {
+    "eyebrow": "Pr\u00f3xima transmisi\u00f3n",
+    "title": "En vivo por Kick",
+    "label": "Live todos los jueves",
+    "name": "Pr\u00f3xima transmisi\u00f3n en vivo",
+    "note": "Bass, groove y cultura UK entrando directo desde C\u00f3rdoba.",
+    "schedule": "Jueves 21:00 hs Argentina",
+    "countdownLabel": "Cuenta regresiva para la pr\u00f3xima transmisi\u00f3n",
+    "countdown": {
+      "days": "D\u00edas",
+      "hours": "Horas",
+      "minutes": "Min",
+      "seconds": "Seg"
+    },
+    "action": "Escuchar set"
+  },
+  "shows": {
+    "eyebrow": "Próximas fechas",
+    "title": "Booking Abierto",
+    "body": "Agenda abierta para los próximos dos meses.",
+    "monthsLabel": "Meses disponibles",
+    "contactCta": "Contacto"
+  },
+  "follow": {
+    "eyebrow": "Redes / links",
+    "title": "Canales de señal",
+    "bookingLabel": "Booking / prensa",
+    "bookingForm": {
+      "name": "Nombre",
+      "email": "Email",
+      "date": "Fecha del evento",
+      "city": "Ciudad / venue",
+      "event": "Tipo de evento",
+      "message": "Contame sobre la fecha",
+      "submit": "Enviar consulta",
+      "whatsapp": "Escribir por WhatsApp"
+    },
+    "links": ["Instagram", "SoundCloud", "YouTube"]
+  },
+  "bookingForm": {
+    "submit": "Enviar consulta",
+    "whatsapp": "Escribir por WhatsApp"
+  }
+}

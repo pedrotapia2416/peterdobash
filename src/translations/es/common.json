@@ -1,0 +1,20 @@
+{
+  "language": {
+    "label": "Selector de idioma",
+    "currentFlag": "🇦🇷",
+    "currentCode": "ES"
+  },
+  "nav": {
+    "home": "Inicio",
+    "sound": "Mi sonido",
+    "journeys": "Viajes",
+    "archive": "Archivo",
+    "contact": "Contacto"
+  },
+  "brand": {
+    "railSystem": "PDB. Sistema // V.1.9",
+    "railLocation": "Córdoba - Argentina",
+    "location": "Córdoba, Argentina",
+    "rights": "Todos los derechos reservados"
+  }
+}

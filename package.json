@@ -1,0 +1,35 @@
+{
+  "name": "peter-do-bash",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --configLoader native",
+    "build": "tsc -b && vite build --configLoader native && node scripts/prerender.mjs",
+    "preview": "vite preview",
+    "start": "vite preview --host 0.0.0.0 --port ${PORT:-4173}"
+  },
+  "dependencies": {
+    "@fontsource/anton": "^5.2.7",
+    "@fontsource/ibm-plex-mono": "^5.2.7",
+    "@fontsource/rubik-dirt": "^5.2.7",
+    "@fontsource/rubik-spray-paint": "^5.2.7",
+    "@fontsource/space-mono": "^5.2.9",
+    "@reduxjs/toolkit": "^2.12.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "i18next": "^26.3.0",
+    "motion": "^12.23.24",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-i18next": "^17.0.8",
+    "react-redux": "^9.3.0",
+    "vite": "^7.1.7"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
+    "sass": "^1.93.2",
+    "sass-embedded": "^1.100.0",
+    "typescript": "~5.9.3"
+  }
+}

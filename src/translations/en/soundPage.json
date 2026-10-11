@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "eyebrow": "01 / Where my sound comes from",
+    "title": "My Sound",
+    "subtitle": "I am not interested in staying inside one genre. I am interested in the transition between worlds.",
+    "body": "I was always drawn to the idea of mixing different worlds inside the same session: the depth of Deep House, the groove of House, the swing of UK Garage, the energy of Bass House and the broken rhythms of Breakbeat. That moment where a track starts deep, gains movement, builds tension and ends up exploding into something different. That is where my sound begins.",
+    "primary": "Listen to the journeys",
+    "secondary": "Enter the archive"
+  },
+  "influences": {
+    "eyebrow": "02 / The references that shaped my search",
+    "title": "Reference points",
+    "text": "I do not see these artists as models to copy. I see them as reference points inside the path I am building. Each one showed me a different way to understand the dancefloor.",
+    "artists": [
+      { "name": "Chris Stussy", "keys": ["Groove", "Breath", "Intention"], "note": "He taught me the importance of groove and letting music breathe. Fewer elements. More intention." },
+      { "name": "East End Dubs", "keys": ["Pressure", "Hypnosis", "Control"], "note": "He showed me how to generate pressure without speeding up or exaggerating. Pure hypnosis." },
+      { "name": "Josh Baker", "keys": ["Modern House", "Club", "Energy"], "note": "The perfect connection between modern House and club energy." },
+      { "name": "Interplanetary Criminal", "keys": ["UK Garage", "Swing", "Bassline"], "note": "A doorway into the UK Garage universe. Swing. Bassline. Attitude." },
+      { "name": "Main Phase", "keys": ["Bass culture", "Energy", "Now"], "note": "The combination between bass culture and contemporary energy." },
+      { "name": "Silva Bumpa", "keys": ["Garage", "Direct", "Explosive"], "note": "The most direct and explosive side of modern Garage." }
+    ]
+  },
+  "journey": {
+    "eyebrow": "03 / The sounds that define me",
+    "title": "Break the mold",
+    "text": "I see genres as different languages for transmitting different sensations. Each one adds something unique to the way I understand music and the dancefloor.",
+    "sounds": [
+      { "label": "Deep House", "essence": "Depth", "body": ["Deep House is probably the place where I feel most comfortable.", "I am drawn to the space it leaves between sounds, the feeling of constant movement and its ability to create connection without exaggerating energy.", "For me it represents elegance, depth and patience. It is music that breathes."] },
+      { "label": "House & Groove", "essence": "Movement", "body": ["House is the most universal language inside my sound.", "It is where direct groove appears, where the sense of forward motion and immediate connection with the floor becomes clear.", "I am especially interested when it combines simplicity with personality. When a bassline and a drum pattern are enough to keep everything moving."] },
+      { "label": "Break & Groove", "essence": "Freedom", "body": ["Broken rhythms let me move away from predictable structures.", "They bring surprise, dynamism and a constant feeling of change.", "They are a tool for breaking comfort and opening new paths inside a session."] },
+      { "label": "UK Garage", "essence": "Swing", "body": ["UK Garage is one of the most important influences in my identity.", "I am drawn to the way it combines energy and sophistication.", "The shuffled drums, basslines and movement of the genre create a feeling I do not find anywhere else. It has attitude. It has culture. It has personality."] },
+      { "label": "Bass House", "essence": "Pressure", "body": ["Bass House brings weight and impact.", "But I am not interested in it from an aggressive or explosive place.", "I am interested when it keeps groove and direction. When the bass becomes the protagonist and pushes the whole floor forward."] },
+      { "label": "DeepTech", "essence": "Precision", "body": ["DeepTech represents the most minimal side of my selection.", "Fewer elements. More intention.", "It is a language built on small details, controlled tension and progressive construction. It proves that less often generates much more."] }
+    ],
+    "centerEyebrow": "At the center",
+    "centerIntro": "If I had to summarize my sound in one idea, it would be this:",
+    "centerLines": ["Depth from Deep House.", "Movement from House.", "Freedom from Breakbeat.", "Swing from UK Garage.", "Pressure from Bass House.", "Precision from DeepTech."],
+    "centerOutro": "The search is about finding balance between all those worlds."
+  },
+  "featured": {
+    "eyebrow": "05 / What I look for when I play",
+    "title": "Connection, tension and release",
+    "text": "I am not trying to surprise with rare tracks. I am not trying to play louder than anyone. I am not trying to follow trends. I want connection. I want the floor to move. I want tension. I want release. I want the music to have direction."
+  },
+  "listen": {
+    "eyebrow": "06 / Listen",
+    "title": "Let's travel together",
+    "text": "For me, a good set is not a collection of songs. It is an experience built step by step.",
+    "cta": "Listen to the journeys",
+    "platforms": ["SoundCloud", "YouTube", "Archive"]
+  }
+}

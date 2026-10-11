@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "titleLines": ["PETER.do", "BASH"],
+    "genres": ["House", "Breaks", "Bass", "Garage"],
+    "summary": [],
+    "manifesto": "MJ Cole: \"Keep the river flowing rather than getting stagnant.\" Follow the vibe, finish the idea and move forward: every bassline, every swing and every mistake can open another door.",
+    "label": "Artist protocol",
+    "primaryCta": "Bookings",
+    "secondaryCta": "Explore The Sound",
+    "manifestoTitle": "Manifesto.exe"
+  },
+  "sound": {
+    "eyebrow": "WHERE MY SOUND COMES FROM",
+    "title": "Sound System",
+    "statement": "My sound lives at the intersection of several worlds: the depth of Deep House, the groove of broken rhythms, the energy of UK culture and the pressure of basslines. I am not interested in staying inside one genre.",
+    "featuredLabel": "",
+    "featuredAction": "Listen to set",
+    "genres": [
+      { "id": "uk-garage", "label": "UK Garage Bassline", "set": "North Swing Tape", "meta": "132 BPM / UKG Bassline", "note": "Shuffled drums, low-end pressure and late-night vocal cuts." },
+      { "id": "bassline", "label": "Bassline", "set": "Sub Grid Session", "meta": "136 BPM / Bass", "note": "Pressure tools built around rolling subs and warehouse swing." },
+      { "id": "dubstep", "label": "Drum n Bass", "set": "Rolling Pressure", "meta": "174 BPM / DnB", "note": "Fast drums, moving low-end and rave tension with a futuristic pulse." },
+      { "id": "bass-house", "label": "Bass House", "set": "Jangadero Bass File", "meta": "128 BPM / Bass House", "note": "Club drive, clipped basslines and direct peak-hour movement." },
+      { "id": "minimal", "label": "Minimal DeepTech / Tech House", "set": "Low Room Protocol", "meta": "126 BPM / DeepTech", "note": "Reduced grooves, pressure loops and precise room control." },
+      { "id": "deep-house", "label": "Deep House", "set": "Afterhours Root", "meta": "124 BPM / Deep House", "note": "Warm drums, smoked chords and steady underground pacing." },
+      { "id": "break-groove", "label": "Break & Groove", "set": "Break Junction", "meta": "130 BPM / Breaks", "note": "Broken rhythm language with jackin energy and rough percussion." },
+      { "id": "house", "label": "House", "set": "Control (Extended Mix)", "meta": "House / Extended Mix", "note": "Precise, elegant house groove built for the center of the room." },
+      { "id": "breaks", "label": "Breaks", "set": "Parallel (Original Mix)", "meta": "Breaks / Original Mix", "note": "Broken rhythms, progressive tension and lateral movement." },
+      { "id": "uk-garage-speed", "label": "UK Garage SpeedGarage", "set": "FWD (Original Mix)", "meta": "SpeedGarage / Original Mix", "note": "Elastic basslines, British swing and club pressure." }
+    ]
+  },
+  "latestSet": {
+    "eyebrow": "Next transmission",
+    "title": "Live on Kick",
+    "label": "Live every Thursday",
+    "name": "Next live transmission",
+    "note": "Bass, groove and UK culture broadcasting direct from Cordoba.",
+    "schedule": "Thursday 21:00 Argentina time",
+    "countdownLabel": "Countdown to the next live transmission",
+    "countdown": {
+      "days": "Days",
+      "hours": "Hours",
+      "minutes": "Min",
+      "seconds": "Sec"
+    },
+    "action": "Listen to set"
+  },
+  "shows": {
+    "eyebrow": "Upcoming shows",
+    "title": "Open Booking",
+    "body": "Calendar open for the next two months.",
+    "monthsLabel": "Available months",
+    "contactCta": "Contact"
+  },
+  "follow": {
+    "eyebrow": "Follow / links",
+    "title": "Signal Channels",
+    "bookingLabel": "Booking / press",
+    "bookingForm": {
+      "name": "Name",
+      "email": "Email",
+      "date": "Event date",
+      "city": "City / venue",
+      "event": "Event type",
+      "message": "Tell me about the date",
+      "submit": "Send inquiry",
+      "whatsapp": "Write on WhatsApp"
+    },
+    "links": ["Instagram", "SoundCloud", "YouTube"]
+  },
+  "bookingForm": {
+    "submit": "Send inquiry",
+    "whatsapp": "Write on WhatsApp"
+  }
+}

@@ -1,0 +1,37 @@
+:root {
+  --color-black: #050505;
+  --color-black-soft: #111111;
+  --color-gray-dark: #1a1a1a;
+  --color-gray: #303030;
+  --color-white: #ededed;
+  --color-muted: #8a8a8a;
+  --color-accent: #d9ff00;
+  --color-accent-dark: #8fb400;
+  --font-display: "Anton", "Arial Black", sans-serif;
+  --font-mono: "IBM Plex Mono", "Space Mono", monospace;
+  --font-graffiti: "Edo SZ", Edo, "Rubik Spray Paint", "Rubik Dirt", Impact, sans-serif;
+
+  --fs-hero: 180px;
+  --fs-title-xl: 48px;
+  --fs-title-lg: 38px;
+  --fs-title-md: 24px;
+  --fs-body: 16px;
+  --fs-small: 13px;
+  --fs-micro: 12px;
+
+  --fw-black: 900;
+  --fw-bold: 700;
+  --fw-medium: 500;
+  --fw-regular: 400;
+
+  --tracking-tight: -6px;
+  --tracking-normal: 1px;
+  --tracking-wide: 2px;
+  --tracking-ultra: 3px;
+  --header-height: 72px;
+  --tech-rail-width: 74px;
+  --page-gutter: clamp(18px, 4vw, 64px);
+  --line: rgba(237, 237, 237, 0.18);
+  --line-strong: rgba(217, 255, 0, 0.62);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+}

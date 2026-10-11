@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "eyebrow": "/ Viajes",
+    "title": "Mis rutas de sonido",
+    "text": "Con el tiempo empecé a ordenar mis sets como recorridos. No los pienso como playlists ni como géneros cerrados. Cada ruta nace de una intención distinta: algunas van hacia la profundidad, otras hacia el groove, otras hacia la influencia UK y otras directamente hacia la presión de club. Todas forman parte del mismo sistema. Son distintas formas de entrar a mi universo.",
+    "stats": [
+      { "value": "12", "label": "Rutas disponibles" },
+      { "value": "∞", "label": "Combinaciones posibles" },
+      { "value": "1", "label": "Sistema conectado" }
+    ],
+    "cta": "Explorar archivo"
+  },
+  "list": {
+    "eyebrow": "/ Todas las rutas",
+    "filter": "Filtrar por:",
+    "filters": ["Todo", "Afterhours", "Club", "Peak Time", "UK", "Bass Culture"]
+  },
+  "footerCta": {
+    "lines": [
+      "Cada ruta representa una forma distinta de entender la pista.",
+      "No son géneros.",
+      "No son playlists.",
+      "Son recorridos construidos a partir de las influencias, sonidos y culturas que forman parte del universo Peter Do Bash."
+    ],
+    "cta": "Explorar archivo"
+  },
+  "routes": [
+    {
+      "id": "01",
+      "title": "The Deep Signal",
+      "description": "Profundidad, textura y movimiento hipnótico.",
+      "genre": "Deep House / Minimal / Break",
+      "bpm": "118 — 126 BPM",
+      "context": "Afterhours"
+    },
+    {
+      "id": "02",
+      "title": "Bassline Theory",
+      "description": "Groove profundo impulsado por líneas de bajo.",
+      "genre": "Deep House / House / Bassline",
+      "bpm": "122 — 128 BPM",
+      "context": "Club"
+    },
+    {
+      "id": "03",
+      "title": "Groove Transmission",
+      "description": "Swing británico, groove y presión bass.",
+      "genre": "Break & Groove / UK Garage / Bass House",
+      "bpm": "128 — 134 BPM",
+      "context": "Club / Peak Time"
+    },
+    {
+      "id": "04",
+      "title": "Club Pressure",
+      "description": "Energía de pista construida para el horario central.",
+      "genre": "House / Tech House / Bass House",
+      "bpm": "126 — 132 BPM",
+      "context": "Club"
+    },
+    {
+      "id": "05",
+      "title": "UK Journey",
+      "description": "Un recorrido por la cultura Garage y Bass británica.",
+      "genre": "UK Garage / Bassline / Dubstep / Bass House",
+      "bpm": "128 — 135 BPM",
+      "context": "Peak Time"
+    },
+    {
+      "id": "06",
+      "title": "Roller System",
+      "description": "Sesiones profundas de movimiento constante.",
+      "genre": "Deep House / Rollers",
+      "bpm": "118 — 124 BPM",
+      "context": "Afterhours"
+    },
+    {
+      "id": "07",
+      "title": "Precision System",
+      "description": "Minimalismo, tensión y control.",
+      "genre": "DeepTech / Minimal",
+      "bpm": "124 — 128 BPM",
+      "context": "Club"
+    },
+    {
+      "id": "08",
+      "title": "Broken Patterns",
+      "description": "Ritmos quebrados y movimiento impredecible.",
+      "genre": "Breaks / Groove",
+      "bpm": "120 — 128 BPM",
+      "context": "Afterhours / Club"
+    },
+    {
+      "id": "09",
+      "title": "Bass Culture",
+      "description": "El bajo como protagonista.",
+      "genre": "UK Bassline",
+      "bpm": "128 — 136 BPM",
+      "context": "Peak Time"
+    },
+    {
+      "id": "10",
+      "title": "Fusion State",
+      "description": "Cruce de influencias House, Breaks y Bass.",
+      "genre": "Multi-Genre Groove",
+      "bpm": "126 — 132 BPM",
+      "context": "Club"
+    },
+    {
+      "id": "11",
+      "title": "Warehouse Files",
+      "description": "Oscuridad, presión y energía underground.",
+      "genre": "DeepTech / Bass House",
+      "bpm": "126 — 134 BPM",
+      "context": "Club / Peak Time"
+    },
+    {
+      "id": "12",
+      "title": "Closing Session",
+      "description": "La última parte del viaje.",
+      "genre": "Deep House / Melodic Grooves / Closers",
+      "bpm": "122 — 128 BPM",
+      "context": "Closing Time"
+    }
+  ]
+}

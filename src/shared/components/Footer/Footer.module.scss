@@ -1,0 +1,18 @@
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 22px var(--page-gutter);
+  border-top: 1px solid var(--line);
+  color: var(--color-muted);
+  background: var(--color-black);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+
+  span:first-child {
+    color: var(--color-white);
+  }
+}

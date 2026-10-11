@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.npm-cache/
+.vite-server*.log
+*.local
+.env
+.env.*
+!.env.example
+
+# TypeScript/Vite generated files
+*.tsbuildinfo
+
+# Local editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

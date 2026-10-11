@@ -1,0 +1,69 @@
+@use "./variables";
+@use "./reset";
+
+@font-face {
+  font-family: "Edo SZ";
+  src: url("../assets/fonts/edosz.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+body::before {
+  position: fixed;
+  inset: 0;
+  z-index: 999;
+  pointer-events: none;
+  content: "";
+  opacity: 0.08;
+  background-image:
+    radial-gradient(circle at 25% 15%, rgba(255, 255, 255, 0.8) 0 1px, transparent 1px),
+    radial-gradient(circle at 70% 65%, rgba(255, 255, 255, 0.7) 0 1px, transparent 1px);
+  background-size: 3px 3px, 5px 5px;
+  mix-blend-mode: screen;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  color: var(--color-black);
+  background: var(--color-accent);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .has-sonic-cursor,
+  .has-sonic-cursor * {
+    cursor: none !important;
+  }
+}
+
+.app-shell {
+  position: relative;
+  min-height: 100vh;
+  padding-left: var(--tech-rail-width);
+  isolation: isolate;
+  background:
+    linear-gradient(rgba(217, 255, 0, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(217, 255, 0, 0.025) 1px, transparent 1px),
+    var(--color-black);
+  background-size: 120px 120px, 120px 120px, auto;
+}
+
+@media (max-width: 860px) {
+  .app-shell {
+    padding-left: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.001ms !important;
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

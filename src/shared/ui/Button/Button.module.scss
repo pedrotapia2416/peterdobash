@@ -1,0 +1,65 @@
+.button {
+  position: relative;
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  padding: 0 18px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  color: var(--color-white);
+  font-family: var(--font-mono);
+  font-size: var(--fs-small);
+  font-weight: var(--fw-medium);
+  letter-spacing: var(--tracking-wide);
+  text-transform: uppercase;
+  transition:
+    border-color 220ms var(--ease-out),
+    color 220ms var(--ease-out),
+    transform 220ms var(--ease-out);
+
+  &::before {
+    position: absolute;
+    inset: auto 0 0;
+    height: 2px;
+    content: "";
+    background: var(--color-accent);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 260ms var(--ease-out);
+  }
+
+  &:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+    transform: translateY(-2px);
+
+    &::before {
+      transform: scaleX(1);
+    }
+  }
+}
+
+.primary {
+  border-color: var(--color-accent);
+  color: var(--color-black);
+  background: var(--color-accent);
+  box-shadow: 0 0 32px rgba(217, 255, 0, 0.16);
+
+  &:hover {
+    color: var(--color-accent);
+    background: transparent;
+  }
+}
+
+.secondary,
+.ghost {
+  background: rgba(5, 5, 5, 0.48);
+  backdrop-filter: blur(10px);
+}
+
+.mark {
+  font-size: 1rem;
+  line-height: 1;
+}

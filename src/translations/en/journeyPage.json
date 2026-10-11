@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "eyebrow": "/ Journeys",
+    "title": "My Sound Routes",
+    "text": "Over time I started organizing my sets as journeys. I do not think of them as playlists or closed genres. Each route is born from a different intention: some move toward depth, others toward groove, others toward the UK influence and others directly toward club pressure. All of them are part of the same system. They are different ways to enter my universe.",
+    "stats": [
+      { "value": "12", "label": "Available routes" },
+      { "value": "∞", "label": "Possible combinations" },
+      { "value": "1", "label": "Connected system" }
+    ],
+    "cta": "Explore archive"
+  },
+  "list": {
+    "eyebrow": "/ All routes",
+    "filter": "Filter by:",
+    "filters": ["All", "Afterhours", "Club", "Peak Time", "UK", "Bass Culture"]
+  },
+  "footerCta": {
+    "lines": [
+      "Each route represents a different way to understand the dancefloor.",
+      "They are not genres.",
+      "They are not playlists.",
+      "They are routes built from the influences, sounds and cultures that are part of the Peter Do Bash universe."
+    ],
+    "cta": "Explore archive"
+  },
+  "routes": [
+    {
+      "id": "01",
+      "title": "The Deep Signal",
+      "description": "Depth, texture and hypnotic movement.",
+      "genre": "Deep House / Minimal / Break",
+      "bpm": "118 — 126 BPM",
+      "context": "Afterhours"
+    },
+    {
+      "id": "02",
+      "title": "Bassline Theory",
+      "description": "Deep groove driven by basslines.",
+      "genre": "Deep House / House / Bassline",
+      "bpm": "122 — 128 BPM",
+      "context": "Club"
+    },
+    {
+      "id": "03",
+      "title": "Groove Transmission",
+      "description": "British swing, groove and bass pressure.",
+      "genre": "Break & Groove / UK Garage / Bass House",
+      "bpm": "128 — 134 BPM",
+      "context": "Club / Peak Time"
+    },
+    {
+      "id": "04",
+      "title": "Club Pressure",
+      "description": "Dancefloor energy built for the central hour.",
+      "genre": "House / Tech House / Bass House",
+      "bpm": "126 — 132 BPM",
+      "context": "Club"
+    },
+    {
+      "id": "05",
+      "title": "UK Journey",
+      "description": "A route through British Garage and Bass culture.",
+      "genre": "UK Garage / Bassline / Dubstep / Bass House",
+      "bpm": "128 — 135 BPM",
+      "context": "Peak Time"
+    },
+    {
+      "id": "06",
+      "title": "Roller System",
+      "description": "Deep sessions with constant movement.",
+      "genre": "Deep House / Rollers",
+      "bpm": "118 — 124 BPM",
+      "context": "Afterhours"
+    },
+    {
+      "id": "07",
+      "title": "Precision System",
+      "description": "Minimalism, tension and control.",
+      "genre": "DeepTech / Minimal",
+      "bpm": "124 — 128 BPM",
+      "context": "Club"
+    },
+    {
+      "id": "08",
+      "title": "Broken Patterns",
+      "description": "Broken rhythms and unpredictable movement.",
+      "genre": "Breaks / Groove",
+      "bpm": "120 — 128 BPM",
+      "context": "Afterhours / Club"
+    },
+    {
+      "id": "09",
+      "title": "Bass Culture",
+      "description": "The bass as the protagonist.",
+      "genre": "UK Bassline",
+      "bpm": "128 — 136 BPM",
+      "context": "Peak Time"
+    },
+    {
+      "id": "10",
+      "title": "Fusion State",
+      "description": "A crossing of House, Breaks and Bass influences.",
+      "genre": "Multi-Genre Groove",
+      "bpm": "126 — 132 BPM",
+      "context": "Club"
+    },
+    {
+      "id": "11",
+      "title": "Warehouse Files",
+      "description": "Darkness, pressure and underground energy.",
+      "genre": "DeepTech / Bass House",
+      "bpm": "126 — 134 BPM",
+      "context": "Club / Peak Time"
+    },
+    {
+      "id": "12",
+      "title": "Closing Session",
+      "description": "The last part of the journey.",
+      "genre": "Deep House / Melodic Grooves / Closers",
+      "bpm": "122 — 128 BPM",
+      "context": "Closing Time"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "eyebrow": "01 / De dónde nace mi sonido",
+    "title": "Mi sonido",
+    "subtitle": "No me interesa quedarme en un solo género. Me interesa la transición entre mundos.",
+    "body": "Siempre me atrajo la idea de mezclar mundos distintos dentro de una misma sesión: la profundidad del Deep House, el groove del House, el swing del UK Garage, la energía del Bass House y los ritmos quebrados del Breakbeat. Ese momento donde una pista empieza siendo profunda, gana movimiento, suma tensión y termina explotando en algo distinto. Ahí nace mi sonido.",
+    "primary": "Escuchar los recorridos",
+    "secondary": "Entrar al archivo"
+  },
+  "influences": {
+    "eyebrow": "02 / Las referencias que moldearon mi búsqueda",
+    "title": "Puntos de referencia",
+    "text": "No veo estos artistas como modelos a copiar. Los veo como puntos de referencia dentro del camino que estoy construyendo. Cada uno me mostró una forma distinta de entender la pista.",
+    "artists": [
+      { "name": "Chris Stussy", "keys": ["Groove", "Respiración", "Intención"], "note": "Me enseñó la importancia del groove y de dejar respirar la música. Menos elementos. Más intención." },
+      { "name": "East End Dubs", "keys": ["Presión", "Hipnosis", "Control"], "note": "Me mostró cómo generar presión sin necesidad de acelerar ni exagerar. Hipnosis pura." },
+      { "name": "Josh Baker", "keys": ["House moderno", "Club", "Energía"], "note": "La conexión perfecta entre House moderno y energía de club." },
+      { "name": "Interplanetary Criminal", "keys": ["UK Garage", "Swing", "Bassline"], "note": "Fue una puerta de entrada al universo UK Garage. Swing. Bassline. Actitud." },
+      { "name": "Main Phase", "keys": ["Bass culture", "Energía", "Actualidad"], "note": "La combinación entre cultura bass y energía contemporánea." },
+      { "name": "Silva Bumpa", "keys": ["Garage", "Directo", "Explosivo"], "note": "El lado más directo y explosivo del Garage moderno." }
+    ]
+  },
+  "journey": {
+    "eyebrow": "03 / Los sonidos que me definen",
+    "title": "Rompamos el molde",
+    "text": "A los géneros los veo como lenguajes distintos para transmitir sensaciones diferentes. Cada uno aporta algo único a la forma en la que entiendo la música y la pista.",
+    "sounds": [
+      {
+        "label": "Deep House",
+        "essence": "Profundidad",
+        "body": [
+          "El Deep House es probablemente el punto donde más cómodo me siento.",
+          "Me atraen los espacios que deja entre sonidos, la sensación de movimiento constante y esa capacidad de generar conexión sin necesidad de exagerar la energía.",
+          "Para mí representa elegancia, profundidad y paciencia. Es música que respira."
+        ]
+      },
+      {
+        "label": "House & Groove",
+        "essence": "Movimiento",
+        "body": [
+          "El House es el lenguaje más universal dentro de mi sonido.",
+          "Es donde aparece el groove más directo, la sensación de avance y la conexión inmediata con la pista.",
+          "Me interesa especialmente cuando combina simplicidad con personalidad. Cuando una línea de bajo y una batería son suficientes para mantener todo en movimiento."
+        ]
+      },
+      {
+        "label": "Break & Groove",
+        "essence": "Libertad",
+        "body": [
+          "Los ritmos quebrados me permiten salir de estructuras previsibles.",
+          "Aportan sorpresa, dinamismo y una sensación constante de cambio.",
+          "Son una herramienta para romper la comodidad y generar nuevos caminos dentro de una sesión."
+        ]
+      },
+      {
+        "label": "UK Garage",
+        "essence": "Swing",
+        "body": [
+          "El UK Garage representa una de las influencias más importantes dentro de mi identidad.",
+          "Me atrae su capacidad para combinar energía y sofisticación.",
+          "Las baterías shuffled, los bajos y el movimiento característico del género generan una sensación que no encuentro en ningún otro lugar. Tiene actitud. Tiene cultura. Tiene personalidad."
+        ]
+      },
+      {
+        "label": "Bass House",
+        "essence": "Presión",
+        "body": [
+          "El Bass House aporta peso e impacto.",
+          "Pero no me interesa desde un lugar agresivo o explosivo.",
+          "Me interesa cuando conserva groove y dirección. Cuando el bajo se convierte en el protagonista y empuja a toda la pista hacia adelante."
+        ]
+      },
+      {
+        "label": "DeepTech",
+        "essence": "Precisión",
+        "body": [
+          "El DeepTech representa el lado más minimalista de mi selección.",
+          "Menos elementos. Más intención.",
+          "Es un lenguaje basado en pequeños detalles, tensión controlada y construcción progresiva. Me interesa porque demuestra que muchas veces menos genera mucho más."
+        ]
+      }
+    ],
+    "centerEyebrow": "En el centro",
+    "centerIntro": "Si tuviera que resumir mi sonido en una sola idea sería esta:",
+    "centerLines": [
+      "Profundidad del Deep House.",
+      "Movimiento del House.",
+      "Libertad del Breakbeat.",
+      "Swing del UK Garage.",
+      "Presión del Bass House.",
+      "Precisión del DeepTech."
+    ],
+    "centerOutro": "La búsqueda está en encontrar el equilibrio entre todos esos mundos."
+  },
+  "featured": {
+    "eyebrow": "05 / Lo que busco cuando toco",
+    "title": "Conexión, tensión y liberación",
+    "text": "No busco sorprender con tracks raros. No busco tocar más fuerte que nadie. No busco seguir tendencias. Busco generar conexión. Que la pista entre en movimiento. Que exista tensión. Que exista liberación. Que la música tenga dirección."
+  },
+  "listen": {
+    "eyebrow": "06 / Escuchar",
+    "title": "Viajemos juntos",
+    "text": "Para mí un buen set no es una colección de canciones. Es una experiencia que se construye paso a paso.",
+    "cta": "Escuchar los recorridos",
+    "platforms": ["SoundCloud", "YouTube", "Archive"]
+  }
+}

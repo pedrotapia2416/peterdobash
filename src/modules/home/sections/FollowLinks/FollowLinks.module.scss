@@ -1,0 +1,130 @@
+.booking {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 24px;
+  padding: 22px 0;
+  border-top: 1px solid var(--color-gray);
+  border-bottom: 1px solid var(--color-gray);
+  color: var(--color-white);
+  text-decoration: none;
+
+  span {
+    color: var(--color-accent);
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  strong {
+    font-family: var(--font-mono);
+    font-size: clamp(1rem, 2vw, 1.4rem);
+    font-weight: var(--fw-regular);
+  }
+}
+
+.bookingForm {
+  display: grid;
+  gap: 16px;
+  max-width: 920px;
+  margin-bottom: 40px;
+
+  label {
+    display: grid;
+    gap: 8px;
+  }
+
+  label span {
+    color: var(--color-muted);
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  input,
+  textarea {
+    width: 100%;
+    border: 1px solid var(--color-gray);
+    border-radius: 0;
+    padding: 13px 14px;
+    color: var(--color-white);
+    background: rgba(17, 17, 17, 0.8);
+    font: inherit;
+  }
+
+  input:focus,
+  textarea:focus {
+    outline: 1px solid var(--color-accent);
+    border-color: var(--color-accent);
+  }
+}
+
+.formGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.formActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+
+  button,
+  a {
+    min-height: 48px;
+    padding: 0 18px;
+    border: 1px solid var(--color-accent);
+    color: var(--color-black);
+    background: var(--color-accent);
+    font-family: var(--font-mono);
+    font-size: var(--fs-small);
+    font-weight: var(--fw-medium);
+    letter-spacing: var(--tracking-wide);
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    color: var(--color-white);
+    background: transparent;
+    text-decoration: none;
+  }
+}
+
+.links {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+
+  a {
+    min-height: 84px;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: var(--fw-regular);
+    letter-spacing: var(--tracking-normal);
+  }
+}
+
+@media (max-width: 860px) {
+  .links {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .links {
+    grid-template-columns: 1fr;
+  }
+
+  .formGrid {
+    grid-template-columns: 1fr;
+  }
+}
